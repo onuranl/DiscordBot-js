@@ -1,7 +1,7 @@
 'use strict';
 require("dotenv").config();
 
-const PREFIX = "/";
+const PREFIX = "!";
 
 const Discord =require('discord.js')
 const client= new Discord.Client();
